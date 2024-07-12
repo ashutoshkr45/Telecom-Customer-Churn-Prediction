@@ -1,9 +1,9 @@
 # Telecom Customer Churn Predictor
 
-This project implements a deep learning model using TensorFlow and Keras to predict customer churn in a telecom industry context. Customer churn prediction is crucial for businesses to retain customers and optimize resources effectively.
+This project implements a Deep Learning model using TensorFlow and Keras to predict customer churn in a Telecom industry context. Customer Churn prediction is crucial for businesses to retain customers and optimize resources effectively.
 
 ## DataSet
-The dataset provides comprehensive customer information from a telecom company, focusing on various aspects that influence churn behavior:
+The dataset provides comprehensive customer information from a Telecom company, focusing on various aspects that influence Churn behavior:
 - **Demographic Information**: Includes customer demographics such as age, gender, and marital status.
 - **Services Subscribed**: Details on the telecom services subscribed by customers, such as internet service type (DSL, Fiber Optic), streaming services, online security, and backup services.
 - **Contract and Billing**: Information about contract terms (month-to-month, yearly), billing methods (paperless billing), and payment methods.
