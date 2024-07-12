@@ -5,9 +5,9 @@ This project implements a deep learning model using TensorFlow and Keras to pred
 ## DataSet
 The dataset provides comprehensive customer information from a telecom company, focusing on various aspects that influence churn behavior:
 - **Demographic Information**: Includes customer demographics such as age, gender, and marital status.
-- **Services Subscribed**: Details on the telecom services subscribed by customers, such as internet service type (DSL, Fiber Optic), streaming services (TV, movies), online security, and backup services.
+- **Services Subscribed**: Details on the telecom services subscribed by customers, such as internet service type (DSL, Fiber Optic), streaming services, online security, and backup services.
 - **Contract and Billing**: Information about contract terms (month-to-month, yearly), billing methods (paperless billing), and payment methods.
-- **Churn Label**: The dataset includes a binary `Churn` column indicating whether a customer has churned (1) or not (0).
+- **Churn Label**: The dataset includes a binary `Churn` column indicating whether a customer has churned or not.
 
 The dataset is instrumental for developing predictive models because it captures diverse customer attributes that influence churn decisions. This information allows for deep insights into customer behavior and facilitates proactive churn management strategies.
 
