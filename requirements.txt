@@ -1,0 +1,20 @@
+# TensorFlow and Keras for building and training the model
+tensorflow
+keras
+
+# Keras Tuner for hyperparameter tuning
+keras-tuner
+
+# Scikit-learn for evaluation metrics and train-test split
+scikit-learn
+
+# Pandas and NumPy for data manipulation and analysis
+pandas
+numpy
+
+# Seaborn and Matplotlib for data visualization
+seaborn
+matplotlib
+
+# SciPy for statistical computations
+scipy
